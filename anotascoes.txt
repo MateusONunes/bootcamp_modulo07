@@ -1,0 +1,14 @@
+npm install browser-sync npm-run-all -D
+
+https://github.com/Rocketseat/bootcamp-launchbase-06
+
+--inspect server-js
+
+ npm install multer
+
+ Arrow Functions
+
+ parei em:
+Estou filtrando por exemplo "a" no link: "http://localhost:3000/products/search?filter=a", porém não está mostrando a imagem do produto.
+
+o link do objeto html está assim: ""
