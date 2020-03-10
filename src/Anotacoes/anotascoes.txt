@@ -12,3 +12,5 @@ https://github.com/Rocketseat/bootcamp-launchbase-06
 Estou filtrando por exemplo "a" no link: "http://localhost:3000/products/search?filter=a", porém não está mostrando a imagem do produto.
 
 o link do objeto html está assim: ""
+
+npm install bcryptjs
