@@ -14,3 +14,7 @@ Estou filtrando por exemplo "a" no link: "http://localhost:3000/products/search?
 o link do objeto html está assim: ""
 
 npm install bcryptjs
+
+https://github.com/expressjs/session
+
+npm install express-session connect-pg-simple
