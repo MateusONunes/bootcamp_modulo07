@@ -18,3 +18,5 @@ npm install bcryptjs
 https://github.com/expressjs/session
 
 npm install express-session connect-pg-simple
+
+npm install nodemailer

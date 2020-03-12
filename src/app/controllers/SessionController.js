@@ -15,6 +15,10 @@ module.exports = {
         return res.render("session/forgot-password")
     },
     forgot(req, res) {
+        return res.render("session/forgot-password", {
+            user: req.body,
+            success: "Verifique seu email para resetar sua senha!"
+        })        
         
     }
 }
